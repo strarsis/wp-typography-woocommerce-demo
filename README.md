@@ -2,8 +2,8 @@
 
 ## Usage
 
-- Clone this repository. `git clone https://github.com/strarsis/wp-core-skip-email-demo`
-- Go into this directory. `cd wp-core-skip-email-demo`
+- Clone this repository. `git clone https://github.com/strarsis/wp-typography-woocommerce-demo`
+- Go into this directory. `cd wp-typography-woocommerce-demo`
 - [Docker](https://docs.docker.com/engine/installation/) + [Docker Compose](https://docs.docker.com/compose/install/) have to be installed.
 - Start containers using `docker-compose up -d`, 
 this will start a MariaDB database container and a WordPress container with this theme mounted as folder into the themes directory of container.
